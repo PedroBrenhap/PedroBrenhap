@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PedroBrenhap
-- 👀 I’m interested in colocar em prática o que tenho  estudado!
+- 👀 I’m interested in putting into practice what i've been studiyng!
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate como desenvolvedor Full-Stack
+- 💞️ I’m looking to collaborate as a full stack developer
 - 📫 How to reach me  +55(21)97276-2643 ou pedrobrenhap@gmail.com
-- https://friendspedrob.netlify.app/ - Site desenvolvido por mim, foram utilizados HTML, CSS e JavaScript
+- https://friendspedrob.netlify.app/ - website  develped by myself, programming language  used HTML5, CSS3 and JavaScript
 
 <!---
 PedroBrenhap/PedroBrenhap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
